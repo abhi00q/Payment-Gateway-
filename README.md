@@ -1,4 +1,4 @@
-# paymentGatewayIntegration
+# PaymentGatewayIntegration
 ```markdown
 # Wildlife Donation Website with Razorpay Integration
 
